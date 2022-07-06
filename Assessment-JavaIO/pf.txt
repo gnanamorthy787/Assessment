@@ -1,0 +1,5 @@
+#This is a sample properties file
+#Wed Jul 06 20:34:21 IST 2022
+Sex=Male
+Age=22
+Name=Gnana
